@@ -101,15 +101,18 @@ bash
 Copy
 Edit
 ./exercise
-🎯 Purpose
+
+---
+
+## 🎯 Purpose
 This repository serves as:
 
-A learning resource for practicing C++ programming.
+- A learning resource for practicing C++ programming.
+- A reference collection of small, self-contained C++ examples.
+- A foundation for building larger and more complex projects in the future.
 
-A reference collection of small, self-contained C++ examples.
+---
 
-A foundation for building larger and more complex projects in the future.
-
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
