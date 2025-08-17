@@ -1,0 +1,7 @@
+﻿  Source.cpp
+M:\C\11-02-2023\11-02-2023\Source.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+M:\C\11-02-2023\11-02-2023\turn.h(47,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+M:\C\11-02-2023\11-02-2023\turn.h(45,1): message : while compiling class template member function 'int turn<char>::count(void)'
+M:\C\11-02-2023\11-02-2023\Source.cpp(27,22): message : see reference to function template instantiation 'int turn<char>::count(void)' being compiled
+M:\C\11-02-2023\11-02-2023\Source.cpp(9,13): message : see reference to class template instantiation 'turn<char>' being compiled
+  11-02-2023.vcxproj -> M:\C\11-02-2023\x64\Debug\11-02-2023.exe

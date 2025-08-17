@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  building.cpp
+  Generating Code...
+M:\C\18-04-2023\18-04-2023\building.cpp(32): warning C4715: 'building::name': not all control paths return a value
+  18-04-2023.vcxproj -> M:\C\18-04-2023\x64\Debug\18-04-2023.exe

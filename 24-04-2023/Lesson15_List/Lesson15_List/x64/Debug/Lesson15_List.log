@@ -1,0 +1,3 @@
+﻿  Source.cpp
+M:\C\24-04-2023\Lesson15_List\Lesson15_List\Source.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lesson15_List.vcxproj -> M:\C\24-04-2023\Lesson15_List\x64\Debug\Lesson15_List.exe

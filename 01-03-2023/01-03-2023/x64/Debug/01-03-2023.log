@@ -1,0 +1,16 @@
+﻿  Source.cpp
+  String.cpp
+C:\Users\326354982\source\repos\01-03-2023\01-03-2023\String.cpp(5,2): error C2270: 'printString': modifiers not allowed on nonmember functions
+C:\Users\326354982\source\repos\01-03-2023\01-03-2023\String.cpp(14,7): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'const char' to 'const char *'
+C:\Users\326354982\source\repos\01-03-2023\01-03-2023\String.cpp(14,14): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(215,16): message : see declaration of 'strlen'
+C:\Users\326354982\source\repos\01-03-2023\01-03-2023\String.cpp(14,7): message : while trying to match the argument list '(const char)'
+C:\Users\326354982\source\repos\01-03-2023\01-03-2023\String.cpp(14,23): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'const char' to 'const char *'
+C:\Users\326354982\source\repos\01-03-2023\01-03-2023\String.cpp(14,30): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(215,16): message : see declaration of 'strlen'
+C:\Users\326354982\source\repos\01-03-2023\01-03-2023\String.cpp(14,23): message : while trying to match the argument list '(const char)'
+C:\Users\326354982\source\repos\01-03-2023\01-03-2023\String.cpp(16,23): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'const char' to 'const char *'
+C:\Users\326354982\source\repos\01-03-2023\01-03-2023\String.cpp(16,30): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(215,16): message : see declaration of 'strlen'
+C:\Users\326354982\source\repos\01-03-2023\01-03-2023\String.cpp(16,23): message : while trying to match the argument list '(const char)'
+  Generating Code...

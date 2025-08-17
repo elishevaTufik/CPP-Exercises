@@ -1,0 +1,13 @@
+﻿  Source.cpp
+M:\C\14-05-2023\14-05-2023\Source.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+M:\C\14-05-2023\14-05-2023\Source.cpp(14,26): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+M:\C\14-05-2023\14-05-2023\Source.cpp(33,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  for_function.cpp
+  Generating Code...
+M:\C\14-05-2023\14-05-2023\Source.cpp(54): warning C4715: '`main'::`2'::<lambda_4>::operator()': not all control paths return a value
+M:\C\14-05-2023\14-05-2023\Source.cpp(55): warning C4715: '`main'::`2'::<lambda_5>::operator()': not all control paths return a value
+  14-05-2023.vcxproj -> M:\C\14-05-2023\x64\Debug\14-05-2023.exe
